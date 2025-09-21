@@ -123,9 +123,9 @@ O aplicativo segue as diretrizes do Material Design:
 ## 📱 Capturas de Tela
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/782ad64f-d930-46fc-aa8d-a3a583ea6d07" width="300" />
-<img src="https://github.com/user-attachments/assets/c2daa6f7-9433-446f-b1ec-2440083d8bf8" width="300" />
-<img src="https://github.com/user-attachments/assets/bdf659e1-8cab-4a59-8bff-a9fad9d75567" width="300" />
+<img src="https://github.com/user-attachments/assets/782ad64f-d930-46fc-aa8d-a3a583ea6d07" width="250" />
+<img src="https://github.com/user-attachments/assets/c2daa6f7-9433-446f-b1ec-2440083d8bf8" width="250" />
+<img src="https://github.com/user-attachments/assets/bdf659e1-8cab-4a59-8bff-a9fad9d75567" width="250" />
 </div>
 
 ## 🚀 Funcionalidades Futuras
@@ -296,10 +296,10 @@ The app follows Material Design guidelines:
 ## 📱 Screenshots
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/782ad64f-d930-46fc-aa8d-a3a583ea6d07" width="300" />
-<img src="https://github.com/user-attachments/assets/c2daa6f7-9433-446f-b1ec-2440083d8bf8" width="300" />
-<img src="https://github.com/user-attachments/assets/bdf659e1-8cab-4a59-8bff-a9fad9d75567" width="300" />
-</div>
+<img src="https://github.com/user-attachments/assets/782ad64f-d930-46fc-aa8d-a3a583ea6d07" width="250" />
+<img src="https://github.com/user-attachments/assets/c2daa6f7-9433-446f-b1ec-2440083d8bf8" width="250" />
+<img src="https://github.com/user-attachments/assets/bdf659e1-8cab-4a59-8bff-a9fad9d75567" width="250" />
+</div
 
 ## 🚀 Upcoming Features
 
@@ -344,3 +344,4 @@ This project is licensed under the MIT License. See the [LICENSE] file for detai
 - [Firebase Auth Documentation](https://firebase.google.com/docs/auth)
 - [Material Design Guidelines](https://material.io/design)
 - [Android Developer Guides](https://developer.android.com/guide)
+
