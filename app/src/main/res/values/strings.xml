@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Firebase Auth</string>
+
+    <string name="app_logo">Logo do App</string>
+    <string name="welcome_icon">Ícone de Boas-vindas</string>
+    <string name="bem_vindo_de_volta">Bem-vindo de volta!</string>
+    <string name="entre_na_sua_conta_para_continuar">Entre na sua conta para continuar</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="ou">ou</string>
+    <string name="entrar_com_google">Entrar com Google</string>
+    <string name="n_o_tem_uma_conta">Não tem uma conta?</string>
+    <string name="cadastre_se">Cadastre-se</string>
+    <string name="bem_vindo">Bem-vindo!</string>
+    <string name="carregando_informa_es_do_usu_rio">Carregando informações do usuário...</string>
+    <string name="informa_es_da_conta">Informações da Conta</string>
+    <string name="email_exemplo_com">email@exemplo.com</string>
+    <string name="id_123456789">ID: 123456789</string>
+    <string name="sair">Sair</string>
+    <string name="register_icon">Ícone de Registro</string>
+    <string name="criar_conta">Criar Conta</string>
+    <string name="preencha_os_dados_para_se_cadastrar">Preencha os dados para se cadastrar</string>
+    <string name="confirmar_senha">Confirmar Senha</string>
+    <string name="j_tem_uma_conta">Já tem uma conta?</string>
+
+</resources>

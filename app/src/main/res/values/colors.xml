@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores padrão do Android -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta de cores moderna - Padronizada com Azul -->
+    <!-- Cor principal - Azul moderno (usado em todo o app) -->
+    <color name="primary_color">#FF667EEA</color>
+    <color name="primary_dark">#FF5A67D8</color>
+    <color name="primary_light">#FF90A4F7</color>
+
+    <!-- Cor de destaque - Mesmo azul para consistência -->
+    <color name="accent_color">#FF667EEA</color>
+    <color name="accent_dark">#FF5A67D8</color>
+    <color name="accent_light">#FF90A4F7</color>
+
+    <!-- Cores de fundo -->
+    <color name="background_color">#FFF7FAFC</color>
+    <color name="surface_color">#FFFFFFFF</color>
+    <color name="input_background">#FFFFFFFF</color>
+
+    <!-- Cores de texto melhoradas -->
+    <color name="text_primary">#FF1A202C</color>
+    <color name="text_secondary">#FF718096</color>
+    <color name="text_hint">#FFA0AEC0</color>
+
+    <!-- Cores de estado -->
+    <color name="error_color">#FFF56565</color>
+    <color name="success_color">#FF667EEA</color>
+    <color name="warning_color">#FFED8936</color>
+    <color name="info_color">#FF667EEA</color>
+
+    <!-- Cores de borda e divisão -->
+    <color name="stroke_color">#FFE2E8F0</color>
+    <color name="divider_color">#FFCBD5E0</color>
+
+    <!-- Cores com transparência -->
+    <color name="overlay_light">#30FFFFFF</color>
+    <color name="overlay_dark">#30000000</color>
+</resources>
